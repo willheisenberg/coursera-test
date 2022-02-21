@@ -1,0 +1,80 @@
+body {
+background-color: #ffa63d;
+}
+
+.navbar-brand{
+  font-size: 2em;
+  padding-top: 0px;
+  height: 2.6em;
+}
+
+.navbar-nav .active {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+#header-nav{
+  background-color: #2474a1;
+  border: 1px;
+  border-radius: 0;
+  border: 0;
+  color: black;
+}
+
+#icon-bar{
+background-color: black;
+}
+
+#button{
+  border-color: black;
+  margin: 15px 10px 20px 0;
+
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+font-size: 3em;
+font-weight: bold;
+}
+
+h3 {
+text-align: center;
+font-size: 2em;
+font-weight: bold;
+}
+
+p {
+font-size: 1.2em;
+}
+
+#bs-example-navbar-collapse-1{
+  background-color: #358bbb;
+  margin: 0em -1.1em -0.8em -1.1em;
+  text-align: center;
+}
+
+
+#liste {
+  color: black;
+}
+
+#listfeld {
+  border-color: black;
+}
+
+#meals {
+  margin: 15px 10px 15px 10px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+#textback {
+  background-color: #f4cc55;
+  border-radius: 1em;
+}
+
+<!--  -->
